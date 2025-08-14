@@ -1,6 +1,18 @@
+'use client'
 
+import Link from 'next/link'
+import { FileText, Download, ExternalLink, BookOpen, Users, Gavel, Heart, Brain, Share2, FileText as FileIcon, Eye, X, MessageCircle, Send, Mail, DollarSign } from 'lucide-react'
+import { useState } from 'react'
+import { Button } from '@/components/ui/button'
+import { Dialog, DialogContent, DialogHeader, DialogTitle } from '@/components/ui/dialog'
+import { ScrollArea } from '@/components/ui/scroll-area'
+import { DropdownMenu, DropdownMenuContent, DropdownMenuItem, DropdownMenuTrigger } from '@/components/ui/dropdown-menu'
 
-[
+export default function Home() {
+  const [selectedDoc, setSelectedDoc] = useState<any>(null)
+  const [isViewerOpen, setIsViewerOpen] = useState(false)
+
+  const documents = [
     {
       id: 'non-controversial-treatment',
       title: 'Non-Controversial, Immediately Accessible Treatment Options',
@@ -676,4 +688,6 @@ This guide provides a foundational blueprint for survivors. By understanding the
     </div>
   )
 }
+}
+
 
