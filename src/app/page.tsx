@@ -205,7 +205,7 @@ Highlights
 • Both olanzapine and O + B co-treatment did not affect D2 receptor binding.
 
 Abstract
-Olanzapine is widely used in treating multiple domains of schizophrenia symptoms but induces serious metabolic side-effects. Recent evidence has showed that co-treatment of betahistine (a histaminergic H1 receptor agonist and H3 receptor antagonist) is effective for preventing olanzapine-induced weight gain/obesity, however it is not clear whether this co-treatment affects on the primary therapeutic receptor binding sites of olanzapine such as serotonergic 5-HT2A receptors (5-HT2AR) and dopaminergic D2 receptors (D2R). Therefore, this study investigated the effects of this co-treatment on 5-HT2AR, 5-HT transporter (5-HTT) and D2R bindings in various brain regions involved in antipsychotic efficacy. Female Sprague Dawley rats were administered orally (t.i.d.) with either olanzapine (1 mg/kg), betahistine (2.7 mg/kg), olanzapine plus betahistine (O + B), or vehicle (control) for 2 weeks. Quantitative autoradiography was used to detect the density of [3H]ketanserin, [3H]paroxetine and [3H]raclopride binding site to 5-HT2AR, 5-HTT and D2R. Compared to the controls, olanzapine significantly decreased [3H]ketanserin bindings to 5-HT2AR in the prefrontal cortex, cingulate cortex, and nucleus accumbens. Similar changes in 5-HT2AR bindings in these nuclei were also observed in the O + B co-treatment group. Olanzapine also significantly decreased [3H]paroxetine binding to 5-HTT in the ventral tegmental area and substantia nigra, however, both olanzapine only and O + B co-treatment did not affect [3H]raclopride binding to D2R. The results confirmed the important role of 5-HT2AR in the efficacy of olanzapine, which is not influenced by the O + B co-treatment. Therefore, betahistine co-treatment would be an effective combination therapy to reduce olanzapine-induced weight gain side-effects without affecting olanzapine's actions on 5-HT2AR transmissions.
+Olanzapine is widely used in treating multiple domains of schizophrenia symptoms but induces serious metabolic side-effects. Recent evidence has showed that co-treatment of betahistine (a histaminergic H1 receptor agonist and H3 receptor antagonist) is effective for preventing olanzapine-induced weight gain/obesity, however it is not clear whether this co-treatment affects on the primary therapeutic receptor binding sites of olanzapine such as serotonergic 5-HT2A receptors (5-HT2AR) and dopaminergic D2 receptors (D2R). Therefore, this study investigated the effects of this co-treatment on 5-HT2AR, 5-HT transporter (5-HTT) and D2R bindings in various brain regions involved in antipsychotic efficacy. Female Sprague Dawley rats were administered orally (t.i.d.) with either olanzapine (1 mg/kg), betahistine (2.7 mg/kg), olanzapine plus betahistine (O + B), or vehicle (control) for 2 weeks. Quantitative autoradiography was used to detect the density of [3H]ketanserin, [3H]paroxetine and [3H]raclopride binding site to 5-HT2AR, 5-HTT and D2R. Compared to the controls, olanzapine significantly decreased [3H]ketanserin bindings to 5-HT2AR in the prefrontal cortex, cingulate cortex, and nucleus accumbens. Similar changes in 5-HT2AR bindings in these nuclei were also observed in the O + B co-treatment group. Olanzapine also significantly decreased [3H]paroxetine binding to 5-HTT in the ventral tegmental area and substantia nigra, however, both olanzapine only and O + B co-treatment did not affect [3H]raclopride binding to D2R. The results confirmed the important role of 5-HT2AR in the efficacy of olanzapine, which is not influenced by the O + B co-treatment. Therefore, betahistine co-treatment would be an effective combination therapy to reduce olanzapine-induced weight gain side-effects without affecting olanzapine&apos;s actions on 5-HT2AR transmissions.
 
 Conclusions
 The present study provides the first evidence that O + B co-treatment has similar effects as olanzapine only treatment on the 5-HT2AR, 5-HTT and D2R bindings in key regions of the brain associated with antipsychotic therapeutics. This study suggested that the co-treatment of olanzapine and betahistine could be a fair option for ameliorating the body weight gain/obesity side-effect without affecting olanzapine actions on 5-HT2AR and D2R transmissions.`
@@ -213,7 +213,7 @@ The present study provides the first evidence that O + B co-treatment has simila
     {
       id: 'resumo-recall',
       title: 'Resumo Recall Zyprexa - Complete Analysis',
-      description: 'Comprehensive analysis document covering Gabriel Filippi\'s case, research gaps, legal implications, and advocacy strategies.',
+      description: 'Comprehensive analysis document covering Gabriel Filippi&apos;s case, research gaps, legal implications, and advocacy strategies.',
       length: 'Detailed Analysis',
       format: 'PDF',
       icon: Gavel,
@@ -239,7 +239,7 @@ Proposed Experimental Design
 Broader Implications and Research Gaps
 ● The document discusses the broader implications of antipsychotic research, specifically focusing on the effects of Zyprexa, a medication developed by Eli Lilly, and its potential to cause irreversible receptor changes in the brain.
 ● The current gaps in research are highlighted, with most studies concentrating on metabolic or motor side effects, rather than psychoactive responsiveness as a marker of brain health, and a novel contribution is made by challenging the assumption that antipsychotic effects are fully reversible.
-● Key arguments are presented to challenge Eli Lilly's claims about Zyprexa's safety, including mechanistic denial, where the company claims the effects are reversible, but evidence suggests permanent neuroplastic damage, and metabolic vs neurological harm, where the company downplays metabolic risks while ignoring the exacerbation of receptor dysfunction.`
+● Key arguments are presented to challenge Eli Lilly&apos;s claims about Zyprexa's safety, including mechanistic denial, where the company claims the effects are reversible, but evidence suggests permanent neuroplastic damage, and metabolic vs neurological harm, where the company downplays metabolic risks while ignoring the exacerbation of receptor dysfunction.`
     },
     {
       id: 'comprehensive-guide',
@@ -317,7 +317,7 @@ This guide provides a foundational blueprint for survivors. By understanding the
       email: `mailto:?subject=${encodeURIComponent(title)}&body=${encodeURIComponent(`${title}\n\n${url}`)}`,
       telegram: `https://t.me/share/url?url=${encodeURIComponent(url)}&text=${encodeURIComponent(title)}`
     }
-    
+
     if (shareUrls[platform as keyof typeof shareUrls]) {
       window.open(shareUrls[platform as keyof typeof shareUrls], '_blank', 'width=600,height=400')
     }
@@ -414,7 +414,7 @@ This guide provides a foundational blueprint for survivors. By understanding the
             Your Complete Resource for Zyprexa Recovery
           </h2>
           <p className="text-xl text-gray-600 max-w-3xl mx-auto">
-            Evidence-based guides covering scientific understanding, treatment options, legal rights, 
+            Evidence-based guides covering scientific understanding, treatment options, legal rights,
             and advocacy strategies for Zyprexa (olanzapine) survivors.
           </p>
         </div>
@@ -487,16 +487,16 @@ This guide provides a foundational blueprint for survivors. By understanding the
                     <p className="text-sm text-gray-500">{doc.length} • {doc.format}</p>
                   </div>
                 </div>
-                
+
                 <p className="text-gray-600 text-sm mb-4 leading-relaxed">
                   {doc.description}
                 </p>
-                
+
                 <div className="mb-4">
                   <span className="text-xs font-medium text-gray-700">Best for:</span>
                   <p className="text-xs text-gray-600 mt-1">{doc.bestFor}</p>
                 </div>
-                
+
                 <div className="space-y-2">
                   <div className="flex gap-2">
                     <button
@@ -582,7 +582,7 @@ This guide provides a foundational blueprint for survivors. By understanding the
           </h3>
           <div className="grid md:grid-cols-2 gap-6">
             <div>
-              <h4 className="font-semibold mb-3">Eli Lilly's History</h4>
+              <h4 className="font-semibold mb-3">Eli Lilly&apos;s History</h4>
               <ul className="space-y-2 text-purple-100">
                 <li>• $1.415 billion settlement for illegal marketing</li>
                 <li>• Knew about risks years before disclosure</li>
@@ -604,7 +604,7 @@ This guide provides a foundational blueprint for survivors. By understanding the
         <div className="text-center bg-white rounded-lg shadow-lg p-8">
           <h3 className="text-2xl font-bold text-gray-900 mb-4">Start Your Recovery Journey</h3>
           <p className="text-gray-600 mb-6 max-w-2xl mx-auto">
-            You are not alone. Thousands of survivors are experiencing similar effects from Zyprexa. 
+            You are not alone. Thousands of survivors are experiencing similar effects from Zyprexa.
             Your symptoms are real, scientifically documented, and valid. Recovery is possible.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
@@ -688,6 +688,3 @@ This guide provides a foundational blueprint for survivors. By understanding the
     </div>
   )
 }
-}
-
-
